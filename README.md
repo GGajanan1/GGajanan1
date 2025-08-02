@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggajanan1&label=Profile%20views&color=0e75b6&style=flat" alt="ggajanan1" /> </p>
 
-- 🌱 I’m currently learning **Threejs**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **Java,DSA,MERN Stack**
 
